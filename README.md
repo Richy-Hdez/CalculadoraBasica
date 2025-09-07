@@ -29,4 +29,9 @@ Incluye las **cuatro operaciones básicas** y varias funciones extra como histor
 ## 🖼️ Interfaz
 
 Distribución estándar para una calculadora física:
+H CA C B
+7 8 9 /
+4 5 6 *
+1 2 3 -
+0 . = +
 
