@@ -1,3 +1,14 @@
+# 👤Integrantes
+●	Contreras Mosco Cristobal
+
+●	Hernández Aguirre Ricardo
+
+●	Monroy Muñoz Angel Yael
+
+●	Salazar Rocha Any Jennifer
+
+
+
 # 🧮 Calculadora con Interfaz Gráfica
 
 Esta es una calculadora creada en **Python** utilizando la librería **Tkinter**.  
