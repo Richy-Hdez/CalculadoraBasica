@@ -1,6 +1,8 @@
 # 👤Integrantes
 ●	Contreras Mosco Cristobal
 
+●	Díaz Pérez Diego
+
 ●	Hernández Aguirre Ricardo
 
 ●	Monroy Muñoz Angel Yael
