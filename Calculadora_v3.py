@@ -2,7 +2,7 @@ import tkinter as tk
 class Calculadora:
     def __init__(self, raiz):
         self.raiz = raiz
-        self.raiz.title("Calculadora 4.1")
+        self.raiz.title("Calculadora 3.0")
         self.raiz.resizable(False, False)
 
         # ================= VARIABLES =================
