@@ -7,7 +7,7 @@
 
 ---
 
-# 🧮 Calculadora v4.0 con Funciones Avanzadas
+# 🧮 Calculadora v3.0 con Funciones Avanzadas
 
 Esta es una **calculadora de escritorio** creada en **Python** utilizando la librería **Tkinter**.  
 La versión **3.0** es una **evolución completa** que añade **cálculo de porcentajes**, mejora las **funciones de memoria** y presenta una **interfaz rediseñada**, manteniendo un uso **intuitivo** y en **español**.
